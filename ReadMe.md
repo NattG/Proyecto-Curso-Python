@@ -1,4 +1,4 @@
 PROYECTO FINAL: CALCULADORA
 
-- Calculadora con intrfaz de usuario
+- Calculadora con interfaz de usuario
 - Calculadora por consola
